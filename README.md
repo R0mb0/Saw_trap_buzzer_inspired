@@ -1,4 +1,4 @@
-# saw-trap-buzzer-inspired
+# Saw trap buzzer inspired
 
 PWM-based Arduino experiments to approximate industrial buzzer and trap-like siren sounds (SAW‑inspired).
 
