@@ -30,5 +30,9 @@ Required hardware:
   - introduce small random frequency jitter
   - simulate 50Hz tremolo to mimic AC-powered mechanical buzzers
 
+## ▶️ How to use
+
+- After assembling the circuit and uploading the sketch to the Arduino, press the switch to toggle the sound ON/OFF. Enjoy! 🎵
+
 ## ⚖️ Legal / copyright
 - This project is *inspired by* buzzer/siren sounds in films. It does NOT include any copyrighted movie audio.
